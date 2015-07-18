@@ -1,0 +1,45 @@
+/*Base*/
+h1 {
+  color: black !important; }
+
+footer {
+  background-color: white; }
+
+/*Layout*/
+.call-to-action {
+  display: table;
+  width: 100%;
+  height: 620px;
+  color: white;
+  background: url(images/gallery/willsk8wood-andrewlambertson.jpg) no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover; }
+
+.portfolio {
+  background-color: white; }
+
+.services {
+  background-color: #333333; }
+
+/* Video EMBed responsive code */
+.responsive-vid {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 37px;
+  overflow: hidden; }
+
+.responsive-vid iframe,
+.responsive-vid object,
+.responsive-vid embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
+/* END OF = Video EMBed responsive code */
+/* MODULE */
+/* STATE */
+/* THEME */
