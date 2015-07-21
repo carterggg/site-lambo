@@ -1,0 +1,15 @@
+
+
+
+@font-face {
+    font-family: 'timelineregular';
+    src: url('fonts/timeline.eot');
+    src: url('fonts/timeline.eot?#iefix') format('embedded-opentype'),
+         url('fonts/timeline.woff2') format('woff2'),
+         url('fonts/timeline.woff') format('woff'),
+         url('fonts/timeline.ttf') format('truetype'),
+         url('fonts/timeline.svg#timelineregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

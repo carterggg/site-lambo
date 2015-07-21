@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'alte_haas_groteskregular';
+    src: url('fonts/altehaasgroteskregular.eot');
+    src: url('fonts/altehaasgroteskregular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/altehaasgroteskregular.woff2') format('woff2'),
+         url('fonts/altehaasgroteskregular.woff') format('woff'),
+         url('fonts/altehaasgroteskregular.ttf') format('truetype'),
+         url('fonts/altehaasgroteskregular.svg#alte_haas_groteskregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

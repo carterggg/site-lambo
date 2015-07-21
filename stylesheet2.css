@@ -1,0 +1,14 @@
+
+
+@font-face {
+    font-family: 'youngregular';
+    src: url('fonts/young.eot');
+    src: url('fonts/young.eot?#iefix') format('embedded-opentype'),
+         url('fonts/young.woff2') format('woff2'),
+         url('fonts/young.woff') format('woff'),
+         url('fonts/young.ttf') format('truetype'),
+         url('fonts/young.svg#youngregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

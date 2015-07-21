@@ -1,6 +1,7 @@
 /*Base*/
 h1 {
-  color: black !important; }
+  color: white !important;
+  text-shadow: 2px 2px 13px black; }
 
 footer {
   background-color: white; }
@@ -22,6 +23,17 @@ footer {
 
 .services {
   background-color: #333333; }
+
+.contact-li-style {
+  font-size: 20px;
+  color: black; }
+
+.contact-li-style a {
+  font-size: 20px;
+  color: black; }
+
+.main-fade {
+  text-shadow: 1px 1px 20px  white; }
 
 /* Video EMBed responsive code */
 .responsive-vid {
